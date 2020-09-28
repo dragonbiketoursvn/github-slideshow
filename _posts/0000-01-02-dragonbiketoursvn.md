@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+*The __bold__ and the beautiful*
 Use the left arrow to go back!
